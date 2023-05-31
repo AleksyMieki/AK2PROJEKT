@@ -1,0 +1,2 @@
+vhdl isim_temp "ArithmeticUnit.vhd"
+vhdl isim_temp "TestArithmeticUnit.vhd"

@@ -1,0 +1,2 @@
+vhdl isim_temp "DataRegister.vhd"
+vhdl isim_temp "TestDataRegister.vhd"

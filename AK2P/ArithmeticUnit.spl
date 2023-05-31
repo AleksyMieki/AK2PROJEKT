@@ -1,0 +1,15 @@
+[Inputs]
+clk
+reset
+add_enable
+sub_enable
+mul_enable
+div_enable
+eq_enable
+=operand1[31:0]=
+=operand2[31:0]=
+[Outputs]
+overflow
+underflow
+=result[31:0]=
+[BiDir]

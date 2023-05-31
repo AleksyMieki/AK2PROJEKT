@@ -1,0 +1,18 @@
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 
+vhdtdtfi -lib work ArithmeticUnit.vhd -prj AK2P -o ArithmeticUnit.spl -module ArithmeticUnit -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ArithmeticUnit.spl /home/aleks/AK2P/ArithmeticUnit.sym 

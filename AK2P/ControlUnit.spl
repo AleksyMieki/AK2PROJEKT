@@ -1,0 +1,11 @@
+[Inputs]
+clk
+reset
+=opcode_sequence[8:0]=
+[Outputs]
+add_enable
+sub_enable
+mul_enable
+div_enable
+eq_enable
+[BiDir]

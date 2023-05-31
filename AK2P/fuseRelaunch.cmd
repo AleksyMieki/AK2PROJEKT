@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/aleks/AK2P/Test_DataRegister_isim_beh.exe" -prj "/home/aleks/AK2P/Test_DataRegister_beh.prj" "work.Test_DataRegister" 

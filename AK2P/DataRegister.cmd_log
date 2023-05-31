@@ -1,0 +1,5 @@
+vhdtdtfi -lib work DataRegister.vhd -prj AK2P -o DataRegister.spl -module DataRegister -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DataRegister.spl /home/aleks/AK2P/DataRegister.sym 
+vhdtdtfi -lib work DataRegister.vhd -prj AK2P -o DataRegister.spl -module DataRegister -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DataRegister.spl /home/aleks/AK2P/DataRegister.sym 
+vhdtdtfi -prj AK2P -o /home/aleks/AK2P/DataRegister.vhi -module DataRegister -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work DataRegister.vhd 
